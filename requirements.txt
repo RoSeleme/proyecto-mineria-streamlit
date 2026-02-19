@@ -1,0 +1,9 @@
+# Este archivo le dice a Streamlit Cloud qué librerías necesita instalar.
+
+streamlit
+pandas
+numpy
+plotly
+matplotlib
+
+
